@@ -1,0 +1,30 @@
+Boiler plate:-
+
+  <html>
+  <head>
+  // meta datas
+  //title
+  <head>
+  <body>
+      //website content
+      </body>
+      </html>
+-------------------------------------------------------------------------------------------------------
+different types of tags:-
+
+block level elements.....
+      <div></div>-divitional tag
+      <h1></h1> --6types (h1toh6)-heading tag
+      <p></p>-paragraph tag
+    inline elements...
+      <span></span>
+         <i></i>
+         <b></b>-bold tag
+without css highlighter
+      <mark></mark>- this tag used in mark and highlight a particular line.
+--------------------------------------------------------------------------------------------------------
+Different Types of Inputs:-
+->To get the values from the user
+
+->elements and attributes
+<input type
